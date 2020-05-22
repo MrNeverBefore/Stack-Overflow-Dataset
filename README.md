@@ -62,6 +62,7 @@ It covers almost 30% of the popularity in the world
 
 
 <h3>Acknowledgements</h3>
+ I got my  motivated for this project from my mentors of Udacity. They tought me right thing and guide me to comlplete this project.
 
 
-<h3>Conclusion</h3>
+
