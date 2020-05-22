@@ -32,7 +32,17 @@ In this data set we are normally focus on 3 qestions
 3. HaveWorked Language
 4. IDE
 
+<h3>Libraries used in this projects</h3>
 
+<h4>Pandas</h4> used pandas library to upload and use csv file
+<h4>numpy</h4> used to do calculation in this project
+<h4>matplotlib</h4> to creat diffrent bargraph in this project
+
+
+<h3>Datasets</h3>
+In this project we use famous Stack overflow  dataset which is survey-results-public.csv
+It contain (51392, 154) rows and colums 
+other data set is survey-results-schema.csv which contain (154, 2) rows column
 <h3>The Conclusion</h3>
 <h4>Study for problem 1</h4>
 Data scientist is the 4th most highest paid job in the world with an average salry of $61137.
@@ -49,3 +59,9 @@ Data scientist uses 55% of java where as only 38% of python
 Visual stdio is the most popular IDE which was used by most of the devlopers throghout the world.
 
 It covers almost 30% of the popularity in the world
+
+
+<h3>Acknowledgements</h3>
+
+
+<h3>Conclusion</h3>
